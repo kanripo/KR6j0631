@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:36:44.876109
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:40
 #+TITLE: 佛說滅除五逆罪大陀羅尼經
 #+PROPERTY: CBETA_ID T21n1399
 #+PROPERTY: ID KR6j0631
