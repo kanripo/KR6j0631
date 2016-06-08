@@ -1,23 +1,21 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:36:44.132125
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:40
 #+TITLE: 佛說滅除五逆罪大陀羅尼經
 #+PROPERTY: CBETA_ID T21n1399
 #+PROPERTY: ID KR6j0631
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1399
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0631_T_000-0915c>¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0631_T_001-0915c> ¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1399¶
-
- 佛說滅除五逆罪大陀羅尼經¶
+No. 1399¶
+佛說滅除五逆罪大陀羅尼經¶
 ¶
-西天譯經三藏朝散大夫試光祿卿¶
-明教大師臣法賢奉　詔譯¶
+西天譯經三藏朝散大夫試光祿卿明教大師臣法賢奉　詔譯¶
 
 爾時世尊告阿難言。有大陀羅尼具大威力¶
 功德無量。能滅眾生五逆重罪。若復有人聞¶
